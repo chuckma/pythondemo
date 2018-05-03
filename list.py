@@ -25,7 +25,7 @@ print(classmates)
 classmates.pop()
 print(classmates)
 
-#删除指定位置
+# 删除指定位置
 classmates.pop(1)
 print(classmates)
 
