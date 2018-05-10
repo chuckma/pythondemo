@@ -10,7 +10,7 @@
 classmates = ['Michael', 'Bob', 'Tracy']
 print(classmates)
 print(len(classmates))
-print( classmates[0])
+print(classmates[0])
 print(classmates[-1])
 
 # 末尾插入
