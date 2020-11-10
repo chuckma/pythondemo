@@ -17,10 +17,7 @@ print('hello'[-1])
 # 取头不取尾
 print('hello'[0:2])
 
-print('hello'[0:-1])
-
 print('hello'[2:])
 
-print('hello'[:-1])
-
 print('hello'[0:-1])
+print('hello'[:-1])

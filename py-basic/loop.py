@@ -20,9 +20,8 @@ print(list(range(5)))
 
 sum = 0;
 for x in range(101):
-    sum = sum+x
+    sum = sum + x
 print(sum)
-
 
 sum = 0
 n = 99

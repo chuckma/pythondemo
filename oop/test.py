@@ -5,7 +5,7 @@
 # @File    : test
 
 
-from a1 import Dog, Tortoise
+from .a1 import Dog, Tortoise
 
 dog = Dog()
 dog.run()
