@@ -10,7 +10,7 @@
 from collections import deque
 
 # 注意：deque 和 list 尽量保持相同类型的数据
-
+# deque 线程安全 list 线程不安全。
 # deque 初始化的时候可以看到 __init__ 函数有个参数 iterable()
 # iterable 是可以迭代的对象，那我们就可以使用 tuple or list 来初始化它
 user_name = deque(("liming", "wangs"))
